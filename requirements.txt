@@ -1,0 +1,6 @@
+torch
+transformers
+rdkit
+flask
+pillow
+opencv-python
